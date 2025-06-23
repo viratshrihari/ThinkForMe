@@ -1,2 +1,10 @@
-# ThinkForMe
-AI-powered assistant that helps students break down questions into hints, steps, or full answers. Built for quick thinking and learning.
+---
+title: Think For Me Assistant
+emoji: 🧠
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: 5.25.2
+app_file: app.py
+pinned: false
+---
